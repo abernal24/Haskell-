@@ -6,7 +6,7 @@ header.
 
 • You must submit a single .hs file with the following name: firstName-
 
-lastName-hw4.hs. Failure to do so will result in -10 points.
+lastName-hw.hs. Failure to do so will result in -10 points.
 • You will lose 10 points if you put a module statement at the top of the file. 
 
 • You will lose 10 points for any import statements you have in your file and
