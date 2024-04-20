@@ -1,4 +1,4 @@
-Homework 4 
+Homework 
 Submission rules:
 
 • All text answers must be given in Haskell comment underneath the problem
